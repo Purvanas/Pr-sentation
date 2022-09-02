@@ -1,4 +1,11 @@
 # Présentation Projet PTB
 ## Prérequis
-    -dfds 
-    -cfdf
+    * Avoir un ordinateur avec un système d'exploitation
+    * Posseder un écran
+    * Disposer d'une connexion internet
+
+## Logiciels à installer
+    * [logiciel1](http://www.simplonline.com)
+        `* ainsi que les extentions conseillés`
+    * [logiciel2](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    * [logiciel3](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCzfXssPb5AhUFOnoKHT0YC9MQyCl6BAgQEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
