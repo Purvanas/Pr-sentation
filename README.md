@@ -1,5 +1,7 @@
 # Présentation Projet PTB
 
+![alt text](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
+
 ## Prérequis
 * Avoir un ordinateur avec un système d'exploitation
 * Posseder un écran
@@ -17,12 +19,12 @@
 >npm install folder t
 
 * Exécuter __logieciel2__  
-    `* Une sous-puce`
+     - Une sous-puce
 
 
 ## Technologies utilisées
 - html
 - css
 - javascript
-`* Une sous-puce`
+    * Une sous-puce
 
