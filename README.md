@@ -6,7 +6,7 @@
 * [Prérequis](https://github.com/Purvanas/Pr-sentation#prérequis)
 * [Logiciels à installer](https://github.com/Purvanas/Pr-sentation#logiciels-à-installer)
 * [Procédure](https://github.com/Purvanas/Pr-sentation#procédure)
-* [Technologies utilisées](https://github.com/Purvanas/Pr-sentation#ptechnologies-utilisées)
+* [Technologies utilisées](https://github.com/Purvanas/Pr-sentation#technologies-utilisées)
 
 ## Prérequis
 * Avoir un ordinateur avec un système d'exploitation
