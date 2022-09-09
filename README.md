@@ -2,6 +2,12 @@
 
 ![alt text](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 
+## Sommaire
+* [Prérequis](https://github.com/Purvanas/Pr-sentation#prérequis)
+* [Logiciels à installer](https://github.com/Purvanas/Pr-sentation#logiciels-à-installer)
+* [Procédure](https://github.com/Purvanas/Pr-sentation#procédure)
+* [Technologies utilisées](https://github.com/Purvanas/Pr-sentation#ptechnologies-utilisées)
+
 ## Prérequis
 * Avoir un ordinateur avec un système d'exploitation
 * Posseder un écran
@@ -27,4 +33,8 @@
 - css
 - javascript
     * Une sous-puce
+        - javascript
+            * Une sous-puce 
+                - javascript
+                     * Une sous-puce
 
